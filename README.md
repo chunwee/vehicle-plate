@@ -14,3 +14,12 @@ OCR was done using [PaddleOCR toolkit](https://github.com/PaddlePaddle/PaddleOCR
 
 ## Classification
 Classification was done using a simple regex script that takes in strings from the OCR and split them into categories based on different characteristics.
+
+Categories include:
+- S-plate cars
+- E-plate cars
+- Motorcycles
+- Light goods vehicles
+- Private hire vehicles
+- Heavy goods vehicles (Class 3)
+- Heavy goods vehicles (Class 4 or 5)
