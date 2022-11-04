@@ -6,7 +6,9 @@
 3. Classification
 
 ## ANPR
-A custom model for number plates was trained using [yolov7](https://github.com/WongKinYiu/yolov7): [<code>carplate.pt</code>](https://github.com/chunwee/vehicle-plate/blob/main/carplate.pt)
+A custom model for number plates was trained using [yolov7](https://github.com/WongKinYiu/yolov7): [<code>carplate.pt</code>](https://github.com/chunwee/vehicle-plate/blob/main/carplate.pt) 
+\
+\
 The dataset used in the model was divided into 70:20:10 (Train:Test:Validation) splits.
 
 
